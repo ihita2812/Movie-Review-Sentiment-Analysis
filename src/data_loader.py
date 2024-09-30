@@ -17,10 +17,10 @@ def explore_data(data):
     print(data.columns)
     
     print("Class distribution (Sentiments):")
-    print(data['sentiment'].value_counts())  # Assuming 'sentiment' column
+    print(data['sentiment'].value_counts())
 
 if __name__ == "__main__":
-    data_path = 'data/raw/reviews.csv'  # Path to your dataset
+    data_path = 'data/raw/reviews.csv'
     data = load_data(data_path)
     
     if data is not None:
