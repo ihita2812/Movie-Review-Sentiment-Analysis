@@ -1,2 +1,4 @@
-aclImdb_v1/
+__pycache__/
+*.pyc
 data/
+*.ipynb_checkpoints
