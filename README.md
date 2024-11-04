@@ -3,22 +3,22 @@ Binary sentiment classification system for movie reviews based on the [Stanford-
 
 ## Project structure
 
-movie-review-sentiment-analysis/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── src/
-│   ├── data_preparation.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   ├── utils.py
-│   └── config.py
-├── notebooks/
-│   └── EDA.ipynb
-├── models/
-├── results/
-├── requirements.txt
-└── README.md
+movie-review-sentiment-analysis/<br>
+├── data/<br>
+│   ├── raw/<br>
+│   └── processed/<br>
+├── src/<br>
+│   ├── data_preparation.py<br>
+│   ├── model_training.py<br>
+│   ├── model_evaluation.py<br>
+│   ├── utils.py<br>
+│   └── config.py<br>
+├── notebooks/<br>
+│   └── EDA.ipynb<br>
+├── models/<br>
+├── results/<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 ## Major TODO
 1. ingenuity?
