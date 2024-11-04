@@ -1,6 +1,27 @@
 # Movie-Review-Sentiment-Analysis
 Binary sentiment classification system for movie reviews based on the [Stanford-IMDb dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
 
+## How to run
+
+1. Setup virtual environment:<br>
+```
+python -m venv project
+cd project
+```
+2. Clone repo here:<br>
+```
+git clone https://github.com/ihita2812/Movie-Review-Sentiment-Analysis.git
+```
+3. Activate venv and install requirements:<br>
+```
+source project/bin/activate
+pip install -r requirements.txt
+```
+4. Run the project:<br>
+```
+python main.py
+```
+
 ## Project structure
 
 movie-review-sentiment-analysis/<br>
